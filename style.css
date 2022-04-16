@@ -1,0 +1,51 @@
+body{
+  background-image: linear-gradient(to right, rgb(175,133,53), rgb(238, 182, 238))
+}
+.box{
+background-color: #ffffff;
+height: 550px;
+width: 930px;
+margin-top: 6%;
+display: flex;
+margin-left: 15%;
+border-radius: 5px;
+}
+.box1{
+background-color: #b88f44;
+width: 400px
+}
+.box2{
+padding: 20px;
+}
+.form1{
+display: flex;
+font-family: Arial, Helvetica, sans-serif;
+}
+label{
+font-size: 20px;
+}
+input{
+font-size: 20px;
+}
+.fform1{
+padding: 10px;
+}
+.fname{
+padding: 10px;
+}
+.signupbtn{
+padding: 15px;
+background-color: rgb(207, 79, 101);
+color: white;
+border: none;
+border-radius: 5px;
+
+}
+.signup{
+background-color: blue;
+padding: 15px;
+border-radius: 5px;
+color: white;
+border: none;
+font-family: Arial, Helvetica, sans-serif;
+}

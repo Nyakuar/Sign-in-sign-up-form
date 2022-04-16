@@ -1,0 +1,23 @@
+
+.form1{
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+    }
+
+    .sig1{
+    padding: 15px;
+    background-color: rgb(207, 79, 101);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    
+    }
+    .sigin2{
+    background-color: blue;
+    padding: 15px;
+    border-radius: 5px;
+    color: white;
+    border: none;
+    font-family: Arial, Helvetica, sans-serif;
+    }
+    
